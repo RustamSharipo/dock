@@ -1,0 +1,114 @@
+@media(max-width:1280px){
+    .section3_allblocks{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .section5_allblocks{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .section5_block{
+        margin-bottom: 20px;
+    }
+    .section7_block{
+        margin-bottom: 20px;
+    }
+    .section8_allblocks{
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+}
+@media(max-width:1140px){
+    .section6_allblocks{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .section4_allblocks{
+        flex-wrap: wrap-reverse;
+        justify-content: center;
+    }
+    .section1_allblocks{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .section1_block{
+        margin-bottom: 20px;
+    }
+    .section3_img{
+        width: 100%;
+    }
+    .section4_img{
+        width: 100%;
+    }
+    .section6_img{
+        width: 100%;
+    }
+    .section8_allblocks{
+        justify-content: center;
+    }
+    .section8_logo{
+        margin-bottom: 10px;
+    }
+    .section8_block{
+        margin-bottom: 20px;
+    }
+    .section9_allblocks1{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .list{
+        margin-bottom: 20px;
+    }
+    .nav_content{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+@media(max-width:720px){
+    .section1_img{
+        width: 100%;
+    }
+    .section5_img{
+        width: 100%;
+    }
+    .footer_nav{
+        flex-wrap: wrap;
+    }
+    .footer_logo{
+        margin-bottom: 20px;
+    }
+    .footer_logo1{
+        margin-bottom: 20px;
+    }
+}
+@media(max-width:540px){
+    .list{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .section1_h1{
+        font-style: 40px;
+    }
+    .section3_block{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .section3_p::after{
+        width: 230px;
+    }
+    .section4_block1{
+        margin-bottom: 20px;
+    }
+    .section9_logo{
+        align-items: center;
+    }
+    .section9_h2{
+        text-align: center;
+    }
+    .section10_h2{
+        text-align: center;
+    }
+    .section2_p{
+        text-align: center;
+    }
+}
